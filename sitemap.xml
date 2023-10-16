@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://avardbhavan.org/</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/slider/slider-3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/slider/slider-1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/slider/slider-2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/misin.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/vision.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Services/Family.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Services/Sarga.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Services/Community.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/image_01.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/image_02.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/image_03.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/logo%201.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/index.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/about_us.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets%5Cimages%5Cslider%5Cavard.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Leader.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Mentor.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/team.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/team/team-memb1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/team/team-memb2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/team/team-memb3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/team/team-memb4.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/team/team-memb5.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/team/team-memb6.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/team/team-memb7.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/team/team-memb8.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/team/team-memb9.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/team/team-memb10.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/team/team-memb11.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Reach.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Impact.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Governance.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/un.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/messages.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/bishop.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/president.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/director.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/mile_stones.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/family_development.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/AboutGal/depression.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets%5Cimages%5Cevents%5CServices%5CFamily.jpeg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/community.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets%5Cimages%5Cevents%5CServices%5CCommunity.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/rehabilitation.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets%5Cimages%5Cevents%5CServices%5CSarga.jpeg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/agriculture.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets%5Cimages%5Cevents%5CServices%5CAadugramam.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/disaster.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets%5Cimages%5Cevents%5CServices%5CDisaster.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/research.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets%5Cimages%5Cevents%5CServices%5CReserch.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/administration.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets%5Cimages%5Cevents%5CServices%5CAdm.jpeg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/image_gallery.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/image_04.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/image_05.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/image_06.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/image_07.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/video_gallery.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/blog.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/news.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/mithra.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/AboutGal/3.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Sarga.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/AboutGal/4.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Ganangal.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/AboutGal/6.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Medal.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/AboutGal/8.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/AboutGal/9.jpeg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Individual.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Involved/sarga_upi.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Involved/dialysis_mitra.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Corporate.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/School.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Voluntering.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/AboutGal/1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/AboutGal/2.jpeg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Careers.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Work.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Droping.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/AboutGal/22.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/AboutGal/21.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/testimonials.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/contact_us.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Tribal.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets%5Cimages%5Cevents%5CServices%5CTribal.jpeg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Micro.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets%5Cimages%5Cevents%5CServices%5CMicro.jpeg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Privacy.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Involved/priv.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Involved/info.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Involved/dataprivacy1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Involved/cookie.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Involved/pay.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Involved/ext.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Involved//upda.jpeg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Return.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/AboutGal/donation.jpeg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/Disclaimer.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Involved/dis.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://avardbhavan.org/assets/images/events/Involved/cpy.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://avardbhavan.org/FAQ.php</loc>
+	<lastmod>2023-09-17T14:12:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
