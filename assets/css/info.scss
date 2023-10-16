@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Montserrat,sans-serif;
+  margin: 50px;
+  background-color: #26A69A;
+  
+  >h1{
+    text-align:center;
+  }
+  
+  >h1{
+    margin: 40px;
+    color: #ffffff;
+  }
+}
+
+$theme-color: #f6671f;
+$outer-circle-width: 250px;
+$inner-circle-width: 150px;
+
+.circle-container{
+  display: flex;
+  justify-content: center;
+  
+  .outer-circle{
+    width: $outer-circle-width;
+    height: $outer-circle-width;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    
+
+    .inner-circle{
+      width: $inner-circle-width;
+      height: $inner-circle-width;
+      box-sizing: content-box;
+      border: (($outer-circle-width - $inner-circle-width) / 2)  solid $theme-color;
+      transform: rotate(45deg);
+      border-radius: 50%;
+      
+      .inner-circle-content{
+        background: #ffffff;
+        border: 5px solid #ffffff;
+        box-sizing: border-box;
+        border-radius: 50%;
+        width: 100%;
+        height: 100%;
+        transform: rotate(-45deg);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        box-shadow: inset 0px 0px 25px rgba(0, 0, 0, 0.3);
+        
+        span{
+          font-size: 1.2rem;
+          font-weight: bold;
+          text-transform: uppercase;
+        }
+        
+        svg{
+          margin-top: 15px;
+        }
+      }
+    }
+    
+    svg path{
+      stroke: $theme-color;
+      fill: $theme-color;
+    }
+    
+    &:not(:first-child){
+      margin-left: -((($outer-circle-width - $inner-circle-width) / 2) - 1);
+    }
+    
+    &:nth-child(odd){
+      .inner-circle{
+        border-top-color: transparent;
+        border-left-color: transparent;
+      }
+    }
+    &:nth-child(even){
+      margin-top: 1px;
+      
+      .inner-circle{
+        border-bottom-color: transparent;
+        border-right-color: transparent;
+      }
+    }
+    &:first-child{
+      .inner-circle{
+        border-left-color: $theme-color;
+      }
+    }
+  }
+  
+  @media (max-width: 767px){
+    flex-direction: column;
+    align-items: center;
+    
+    .outer-circle{
+      .inner-circle{
+        transform: rotate(135deg);
+        .inner-circle-content{
+            transform: rotate(225deg);
+        }
+      }
+      
+      &:not(:first-child){
+        margin-left: 0px;
+        margin-top: -((($outer-circle-width - $inner-circle-width) / 2) - 1);
+      }
+    }
+  }
+}
